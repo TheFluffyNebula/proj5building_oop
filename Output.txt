@@ -1,0 +1,36 @@
+--Tortoises--
+I am sleeping                               (inherited)
+I am hibernating                            (inherited)
+I do not make much sound            (polymorphism of makeSound())
+unsorted tortoises
+Alice40
+Bob35
+Charlie30
+sorted tortoises                    (sorted by age)
+Charlie30
+Bob35
+--Hares--
+I don't hibernate                   (polymorphic: hares don't hibernate)
+Hop! Hop! Hop!                      (polymorphic: hares make different "sounds")
+unsorted hares
+Alice40
+Bob30
+Charlie35
+Diana45
+sorted hares                        (sorted by speed)
+Bob30
+Charlie35
+Alice40
+Diana45
+--Frogs--
+I am sleeping
+I am hibernating
+Ribbit
+unsorted frogs
+Alice10
+Bob15
+Charlie20
+sorted frogs                        (sorted by jump height)
+Alice10
+Bob15
+Charlie20
